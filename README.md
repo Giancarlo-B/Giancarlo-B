@@ -15,7 +15,7 @@ Encuéntrame en la web 🌎:
 ⭐️ From [Drey](https://github.com/Giancarlo-B)
  
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyuix&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giancarlo-B&show_icons=true&theme=transparent)
 
 
 <!--
